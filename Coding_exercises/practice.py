@@ -166,5 +166,3 @@ def greatest_common_factor(number1, number2):
         if number1% i == 0 and number2%i == 0:
             common_factors.append(i)
     return max(common_factors)
-
-C:\Users\Waika Wong\PycharmProjects\untitled11\practice.py
